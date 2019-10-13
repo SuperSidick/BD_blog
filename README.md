@@ -24,6 +24,7 @@ De ce qui précède nous pouvons faire ressortir les tables suivantes:
 *commentaires:  liste des commentaires du blog pour chaque billet 
 
 Structure de tables proposée:
+
 Admin:
 id_admin
 nom
