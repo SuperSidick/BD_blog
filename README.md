@@ -3,11 +3,14 @@
 BASE DE DONNEES D'UN BLOG
 
 Nous nous attelons à créer une base de données d'un blog.
+
 I - CAHIER DES CHARGES
+
 Le but de ce TP est de créer la base de données d'un blog avec les tables essentielles.
 Comme dans le fonctionnement d'un blog, le gloggeur fera des posts (billets) et chaque billets possedera ses propre comentaires, les commentaires seront fais par les utilisateurs ou le bloggeur lui même. Il faut aussi noter que les billets sont émis selon une catégorie bien definie.
 
 II - STRUCTURES DES TABLES
+
 De ce qui précède nous pouvons faire ressortir les tables suivantes
 *Admin: elle contiendra les données sur l'administrateur du blog
 *utilisateurs: stock les informations des utilisateurs et du bloggeur
