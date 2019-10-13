@@ -11,11 +11,16 @@ Comme dans le fonctionnement d'un blog, le gloggeur fera des posts (billets) et 
 
 II - STRUCTURES DES TABLES
 
-De ce qui précède nous pouvons faire ressortir les tables suivantes
+De ce qui précède nous pouvons faire ressortir les tables suivantes:
+
 *Admin: elle contiendra les données sur l'administrateur du blog
+
 *utilisateurs: stock les informations des utilisateurs et du bloggeur
+
 *catégorie: contient toutes les catégories auxquelles se référeront les billets
+
 *billets: liste des billets du blog
+
 *commentaires:  liste des commentaires du blog pour chaque billet 
 
 Structure de tables proposée:
