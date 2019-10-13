@@ -26,33 +26,59 @@ De ce qui précède nous pouvons faire ressortir les tables suivantes:
 Structure de tables proposée:
 
 Admin:
+
 id_admin
+
 nom
+
 password
+
 email
+
 
 Utilisateurs:
+
 id_user
+
 nom
+
 prenom
+
 password
+
 email
 
+
 Categories:
+
 id_cat
+
 nom_cat
 
+
 billets:
+
 id
+
 titre
+
 contenu
+
 date
+
 id_auteur
+
 id_catégorie
 
+
 Commentaires:
+
 id_com
+
 contenu
+
 date
+
 id_auteur
+
 id_billet
